@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-huddle-landing-page-with-feature-blocks-using-flexbox-rQoakwYQ5n](https://www.frontendmentor.io/solutions/responsive-huddle-landing-page-with-feature-blocks-using-flexbox-rQoakwYQ5n)
+- Live Site URL: [https://tzienom-huddle-feature-blocks.netlify.app/](https://tzienom-huddle-feature-blocks.netlify.app/)
 
 ## My process
 
